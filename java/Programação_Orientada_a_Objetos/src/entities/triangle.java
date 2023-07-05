@@ -1,6 +1,8 @@
 package entities;
 
 public class triangle {
+	
+	//Usado em "Criando_um_método_para_obtermos_os_benefícios_de_reaproveitamento_e_delegação"
 
 	public double a;
 	public double b;
@@ -12,6 +14,5 @@ public class triangle {
 	
 	}
 
-	//Usado em "Criando_um_método_para_obtermos_os_benefícios_de_reaproveitamento_e_delegação"
 	
 }
