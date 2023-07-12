@@ -23,7 +23,6 @@ public class exercicio1 {
 	    }
 
 	    System.out.println("NUMEROS NEGATIVOS:");
-
 	    for (int i=0; i<n; i++) {
 	        if (vetor[i] < 0) {
 	        	System.out.printf("%d\n", vetor[i]);
