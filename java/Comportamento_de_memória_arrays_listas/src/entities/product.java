@@ -1,5 +1,6 @@
 package entities;
 
+//utilizado na aula88
 public class product {
 
 	private String name;
@@ -20,8 +21,6 @@ public class product {
 	public void setPrice(double price) {
 		this.price = price;
 	}
-	
-	
 	
 	
 }

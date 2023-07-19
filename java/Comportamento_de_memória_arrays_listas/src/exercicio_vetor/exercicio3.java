@@ -9,12 +9,9 @@ public class exercicio3 {
 		
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
-		
-		int n, nmenores;
-	    double alturatotal, alturamedia, percentualMenores;
 
 	    System.out.print("Quantas pessoas serao digitadas? ");
-	    n = sc.nextInt();
+	    int n = sc.nextInt();
 
 	    String[] nomes = new String[n];
 	    int[] idades = new int[n];
@@ -30,26 +27,26 @@ public class exercicio3 {
 	        alturas[i] = sc.nextDouble();
 	    }
 
-		nmenores = 0;
-		alturatotal = 0;
+		double soma = 0;
 	    for (int i=0; i<n; i++) {
-	        if (idades[i] < 16) {
-	            nmenores++;
-	        }
-	        alturatotal += alturas[i];
+	        soma += alturas[i];
 	    }
-
-	    alturamedia = alturatotal / n;
-	    percentualMenores = ((double)nmenores / n) * 100.0;
-
+	    
+	    double alturamedia = soma / n; 
+	    System.out.println();
 	    System.out.printf("\nAltura media = %.2f\n", alturamedia);
-	    System.out.printf("Pessoas com menos de 16 anos: %.1f%%\n", percentualMenores);
-
+	  
+	    int cont = 0;
 	    for(int i=0; i<n; i++) {
 	        if (idades[i] < 16) {
-	        	System.out.printf("%s\n", nomes[i]);
+	        	cont += 1;
 	        }
 	    }
+	    
+	    double percentualMenores = cont * 100.0 / n;
+	    System.out.printf("Pessoas com menos de 16 anos: %.1f%%\n", percentualMenores);
+
+	  
 
 		sc.close();
 
