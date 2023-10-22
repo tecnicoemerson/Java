@@ -2,7 +2,7 @@ package exercicio_while;
 
 import java.util.Scanner;
 
-public class exercicio1 {
+public class treinamento1 {
 
 	public static void main(String[] args) {
 	
