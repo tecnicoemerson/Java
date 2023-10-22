@@ -3,7 +3,7 @@ package entrada_de_dados_em_java_parte1;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class aula25 {
+public class Program {
 
 	public static void main(String[] args) {
 		
