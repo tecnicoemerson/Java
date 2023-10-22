@@ -1,6 +1,6 @@
 package entities;
 
-public class ex_list {
+public class exlist {
 
 	private Integer id;
 	private String name;
