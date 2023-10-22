@@ -3,7 +3,7 @@ package exercicio;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Treinamento1;
+import entities.Treina1;
 
 public class Treinamento1 {
 
