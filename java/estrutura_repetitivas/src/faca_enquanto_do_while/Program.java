@@ -3,7 +3,7 @@ package faca_enquanto_do_while;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class aula54 {
+public class Program {
 
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
