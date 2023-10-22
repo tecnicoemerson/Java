@@ -2,7 +2,7 @@ package para_for;
 
 import java.util.Scanner;
 
-public class aula49 {
+public class Program {
 
 	public static void main(String[] args) {
 		
