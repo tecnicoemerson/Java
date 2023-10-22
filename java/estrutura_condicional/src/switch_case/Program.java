@@ -2,7 +2,7 @@ package switch_case;
 
 import java.util.Scanner;
 
-public class aula38 {
+public class Program {
 
 	public static void main(String[] args) {
 
