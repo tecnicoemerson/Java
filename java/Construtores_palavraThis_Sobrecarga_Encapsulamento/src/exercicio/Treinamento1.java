@@ -3,9 +3,9 @@ package exercicio;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.EX1;
+import entities.Treinamento1;
 
-public class exercicio1 {
+public class Treinamento1 {
 
 	public static void main(String[] args) {
 		
