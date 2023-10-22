@@ -6,7 +6,7 @@ import java.text.SimpleDateFormat;
 import entities_pos.Comment;
 import entities_pos.Post;
 
-public class aula151 {
+public class Program {
 
 	public static void main(String[] args) throws ParseException {
 
