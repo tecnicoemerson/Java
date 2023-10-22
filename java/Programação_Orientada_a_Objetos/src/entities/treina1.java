@@ -1,8 +1,6 @@
 package entities;
 
-public class EX1 {
-
-	//usado em "exercicio1"
+public class treina1 {
 	
 	public double width;
 	public double height;
