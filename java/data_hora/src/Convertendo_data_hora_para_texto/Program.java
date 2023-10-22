@@ -6,7 +6,7 @@ import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 
-public class aula111 {
+public class Program {
 
 	public static void main(String[] args) {
 		
