@@ -11,7 +11,7 @@ import entities_ex.Department;
 import entities_ex.HourContract;
 import entities_ex.Worker;
 
-public class aula150 {
+public class Program {
 
 	public static void main(String[] args) throws ParseException {
 
