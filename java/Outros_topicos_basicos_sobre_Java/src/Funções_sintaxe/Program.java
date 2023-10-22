@@ -2,7 +2,7 @@ package Funções_sintaxe;
 
 import java.util.Scanner;
 
-public class aula60 {
+public class Program {
 
 	public static void main(String[] args) {
 
