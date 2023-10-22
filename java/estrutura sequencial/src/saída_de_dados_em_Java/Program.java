@@ -2,7 +2,7 @@ package saída_de_dados_em_Java;
 
 import java.util.Locale;
 
-public class aula23 {
+public class Program {
 
 	public static void main(String[] args) {
 		System.out.println("--------------------------------------");
