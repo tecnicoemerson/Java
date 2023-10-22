@@ -2,7 +2,7 @@ package matrix;
 
 import java.util.Scanner;
 
-public class aula102 {
+public class Program {
 
 	public static void main(String[] args) {
 	
