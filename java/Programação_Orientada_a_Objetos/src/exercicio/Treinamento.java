@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 import entities.fixa;
 
-public class exercicio_de_fixacao {
+public class Treinamento {
 
 	public static void main(String[] args) {
 		
