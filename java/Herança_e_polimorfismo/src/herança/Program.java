@@ -4,7 +4,7 @@ import entities.Account;
 import entities.BusinessAccount;
 import entities.SavingsAccount;
  
-public class aula156 {
+public class Program {
 
 	public static void main(String[] args) {
 		
