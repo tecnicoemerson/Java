@@ -3,7 +3,7 @@ package exercicio;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exercicio7 {
+public class eTreinamento7 {
 
 	public static void main(String[] args) {
 
