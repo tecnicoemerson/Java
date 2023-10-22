@@ -2,8 +2,6 @@ package entities;
 
 public class EX2 {
 	
-	//usado em "exercicio2"
-	
 	public String name;
 	public double grossSalary;
 	public double tax;
