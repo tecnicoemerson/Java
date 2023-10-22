@@ -1,6 +1,6 @@
 package Processamento_de_dados_em_Java_Casting;
 
-public class aula24 {
+public class Program {
 
 	public static void main(String[] args) {
 		
