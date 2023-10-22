@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 import entities.calculator;
 
-public class aula70 {
+public class Program {
 
 	 // VERSAO 1: métodos na própria classe do programa
 	/*               
