@@ -1,6 +1,6 @@
 package entities;
 
-public class fixa{
+public class treina{
 	
 	//utilizado em "exercicio_de_fixacao"
 	
