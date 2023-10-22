@@ -2,7 +2,7 @@ package exercicio_vetor;
 
 import java.util.Scanner;
 
-public class exercicio4 {
+public class Treinamento4 {
 
 	public static void main(String[] args) {
 
