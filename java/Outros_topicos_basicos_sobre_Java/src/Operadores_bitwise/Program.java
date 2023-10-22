@@ -2,7 +2,7 @@ package Operadores_bitwise;
 
 import java.util.Scanner;
 
-public class aula57 {
+public class Program {
 
 	public static void main(String[] args) {
 		
