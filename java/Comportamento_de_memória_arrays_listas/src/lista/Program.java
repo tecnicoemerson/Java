@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class aula98 {
+public class Program {
 
 	public static void main(String[] args) {
 		
