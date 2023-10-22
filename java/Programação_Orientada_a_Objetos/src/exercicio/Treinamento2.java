@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 import entities.EX2;
 
-public class exercicio2 {
+public class Treinamento2 {
 
 	public static void main(String[] args) {
 		
