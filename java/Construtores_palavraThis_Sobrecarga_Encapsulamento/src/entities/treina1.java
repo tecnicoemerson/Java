@@ -1,6 +1,6 @@
 package entities;
 
-public class EX1 {
+public class treina1 {
 
 	private int number;
 	private String name;
