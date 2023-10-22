@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 import entities.Product_encapsulamento;
 
-public class aula78 {
+public class Program {
 
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
