@@ -1,6 +1,6 @@
 package Funcoes_interessantes_para_String;
 
-public class aula58 {
+public class Program {
 
 	public static void main(String[] args) {
 	
