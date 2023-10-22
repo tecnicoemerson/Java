@@ -1,6 +1,6 @@
 package saída_de_dados_em_Java;
 
-public class exercicio {
+public class Treinamento {
 
 	public static void main(String[] args) {
 	
