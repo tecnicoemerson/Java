@@ -2,7 +2,7 @@ package exercicio_matrix;
 
 import java.util.Scanner;
 
-public class aula103 {
+public class Program {
 
 	public static void main(String[] args) {
 
