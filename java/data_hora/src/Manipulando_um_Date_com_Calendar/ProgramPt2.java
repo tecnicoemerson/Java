@@ -5,7 +5,7 @@ import java.time.Instant;
 import java.util.Calendar;
 import java.util.Date;
 
-public class aula116_pt2 {
+public class ProgramPt2 {
 
 	public static void main(String[] args) {
 	
