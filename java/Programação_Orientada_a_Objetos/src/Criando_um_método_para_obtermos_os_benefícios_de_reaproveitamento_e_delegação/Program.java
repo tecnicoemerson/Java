@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 import entities.triangle;
 
-public class aula63 {
+public class Program {
 
 	public static void main(String[] args) {
 		
