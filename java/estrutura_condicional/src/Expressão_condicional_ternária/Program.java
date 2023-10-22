@@ -2,7 +2,7 @@ package Expressão_condicional_ternária;
 
 import java.util.Scanner;
 
-public class aula39 {
+public class Program {
 
 	public static void main(String[] args) {
 		
