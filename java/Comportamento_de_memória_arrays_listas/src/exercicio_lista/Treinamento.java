@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 import entities.TreinaList;
 
-public class exercicio1 {
+public class Treinamento {
 
 	public static void main(String[] args) {
 		
