@@ -3,7 +3,7 @@ package exercicio_vetor;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exercicio11 {
+public class eTreinamento11 {
 
 	public static void main(String[] args) {
 
