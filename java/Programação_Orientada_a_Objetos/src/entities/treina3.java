@@ -1,8 +1,6 @@
 package entities;
 
-public class EX3 {
-
-	//usado em "exercicio3"
+public class treina3 {
 	
 	public String name;
 	public double nota1 , nota2, nota3;
