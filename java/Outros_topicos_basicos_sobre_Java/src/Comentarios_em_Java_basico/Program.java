@@ -3,7 +3,7 @@ package Comentarios_em_Java_basico;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class aula59 {
+public class Program {
 
 	/*
 	 Este programa calcula as raízes de uma equação do segundo grau Os valores dos
