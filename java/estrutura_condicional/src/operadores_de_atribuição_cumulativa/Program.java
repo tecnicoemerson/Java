@@ -3,7 +3,7 @@ package operadores_de_atribuição_cumulativa;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class aula37 {
+public class Program {
 
 	public static void main(String[] args) {
 
