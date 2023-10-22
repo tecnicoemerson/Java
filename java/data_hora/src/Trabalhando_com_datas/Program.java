@@ -6,7 +6,7 @@ import java.time.Instant;
 import java.util.Date;
 import java.util.TimeZone;
 
-public class aula115 {
+public class Program {
 
 	public static void main(String[] args) throws ParseException {
 		
